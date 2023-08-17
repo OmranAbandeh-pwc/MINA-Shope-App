@@ -1,0 +1,55 @@
+.nav {
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 10rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.nav .nav-menu{
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.site-title{
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.nav .super-menu{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    text-decoration: none;
+}
+
+.nav .super-menu li .nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+.nav .super-menu li .nav-link:hover{
+    text-decoration: underline;
+}
+
+#submenu{
+    position: relative;
+    right: 20px;
+  
+    visibility: hidden;
+}
+
+.nav-menu:hover #submenu{
+    position: relative;
+    right: 20px;
+
+    visibility: visible;
+}
+
+
+
