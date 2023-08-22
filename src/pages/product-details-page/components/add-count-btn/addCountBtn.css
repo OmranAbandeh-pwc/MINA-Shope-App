@@ -1,0 +1,30 @@
+
+
+.add-sum-btn-main-container{
+    margin-top: 37px;
+}
+
+.add-sum-btn-main-container .add-sum-btn-container {
+    display: flex;
+}
+
+.add-sum-btn-main-container .add-sum-btn-container .add-sum-btn{
+    height: 47px;
+    width: 47px;
+    background-color: white;
+    border:1px solid rgb(217, 217, 217);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-sum-btn-main-container .add-sum-btn-container .add-sum-num{
+    background-color: white;
+    border-bottom: 1px solid rgb(217, 217, 217);
+    border-top: 1px solid rgb(217, 217, 217);
+    height: 47px;
+    width: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

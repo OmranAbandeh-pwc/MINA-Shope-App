@@ -1,0 +1,40 @@
+.home-follow-instagram-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 774px;
+    width: 100%;
+    font-family: sans-serif;
+}
+.home-follow-instagram-container .home-follow-instagram-content{
+    width: 95%;
+    display: block;
+    text-align: center; 
+   
+}
+.home-follow-instagram-container .home-follow-instagram-content h1{
+    margin: auto;
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 500;
+}
+.home-follow-instagram-container .home-follow-instagram-image{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 12px;
+
+}
+.home-follow-instagram-container .home-follow-instagram-image img{
+    height: 400px;
+    width: 384px;
+
+   
+}
+
+.home-follow-instagram-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}

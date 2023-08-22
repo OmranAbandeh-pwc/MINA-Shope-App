@@ -1,0 +1,16 @@
+.card-container-info{
+    display: block;
+    text-align: center;
+    font-family:sans-serif;     
+}
+
+.card-container-info h2{
+    font-weight: 500;
+    padding: 0;
+    margin: 15px;
+}
+
+.item-card-link{
+    text-decoration: none;
+    color: black;
+}

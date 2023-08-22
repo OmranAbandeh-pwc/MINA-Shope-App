@@ -1,0 +1,12 @@
+
+.contact-page-main-container{
+    padding-top: 76px;
+}
+
+.contact-page-content-main-container{
+    height: 95vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

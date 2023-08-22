@@ -1,0 +1,63 @@
+
+
+.home-page-signup-container{
+    background-image: url('https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A1aL88QRE2IPpnVr/Frame-AGBpDkZaG5cRpbaw.png');
+    background-size: cover;
+    
+    object-fit: cover;
+    font-family: sans-serif;
+    height: 601px;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-page-signup-content{
+    position: relative;
+    bottom: 45px;
+    display:block;
+    text-align: center;
+}
+
+.home-page-signup-content h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.home-page-signup-input h4{
+    margin: 0;
+    position: relative;
+    right: 130px;
+    font-weight: 400;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    
+}
+.home-page-signup-input input{
+    width: 50%;
+    height: 44px;
+    border: none;
+    text-decoration: none;
+    padding-left: 17px;
+    outline: none;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.home-page-signup-button{
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 52px;
+    width: 136px;
+    background-color:white;
+    font-size: 19px;
+    color: rgb(78, 77, 77);
+    font-weight: 300;
+}

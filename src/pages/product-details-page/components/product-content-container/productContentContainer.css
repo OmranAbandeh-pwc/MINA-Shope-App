@@ -1,0 +1,25 @@
+
+
+
+.product-content-container{
+    height: 590px;
+    width: 590px;
+    margin-left: 40px;
+   
+}
+
+.product-content-container h1{
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.product-content-container .product-content-price{
+    font-size: 18.5px;
+}
+
+.product-content-container .product-content-info{
+    margin-top: 50px;
+    font-size: 19px;
+    color: rgb(46, 46, 46);
+    line-height: 30px;
+}

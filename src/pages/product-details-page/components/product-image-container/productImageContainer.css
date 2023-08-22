@@ -1,0 +1,12 @@
+
+.product-image-container{
+    height: 590px;
+    width: 590px;
+
+}
+
+.product-image-container img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

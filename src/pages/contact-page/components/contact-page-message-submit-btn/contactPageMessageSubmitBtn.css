@@ -1,0 +1,15 @@
+
+.contact-page-message-submit-btn{
+    margin-top: 30px;
+    height: 52px;
+    width: 136px;
+    color: white;
+    font-weight: 400;
+    font-size: 17px;
+    background-color: rgb(80, 41, 115);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

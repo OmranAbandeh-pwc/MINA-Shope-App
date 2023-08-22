@@ -1,0 +1,22 @@
+.best-sellers-container{
+    height: 80%;
+    margin-bottom: 80px;
+}
+.best-sellers-container h1{
+    padding-top: 10px;
+   display: flex;
+   justify-content: center;
+   font-size: 53px;
+   font-weight: 400;
+}
+
+.best-sellers-cards{
+    
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}

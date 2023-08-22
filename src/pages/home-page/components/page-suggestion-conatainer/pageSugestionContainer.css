@@ -1,0 +1,38 @@
+.page-suggestion-container{
+    height: 600px;
+    width: 40%;
+    font-family:sans-serif;
+}
+
+.page-suggestion-container h1{
+    padding-top: 17px;
+    font-weight: 500;
+    font-size: 35px;
+}
+.page-suggestion-container p{
+    color: rgb(104, 103, 103);
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.page-suggestion-image{
+    height: 384px;
+    width: 100%;
+}
+
+.page-suggestion-btn{
+    margin-top: 35px;
+    height: 57px;
+    width: 175px;
+    background-color: rgb(80, 41, 115);
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.page-suggestion-btn p {
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+}

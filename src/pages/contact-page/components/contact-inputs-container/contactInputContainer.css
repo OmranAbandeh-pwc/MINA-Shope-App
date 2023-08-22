@@ -1,0 +1,41 @@
+
+
+.contact-page-inputs-main-container{
+    height: 66vh;
+    width: 40%;
+}
+
+
+.contact-page-inputs-main-container h1{
+    font-weight: 500;
+}
+
+
+.contact-page-inputs-main-container p{
+    margin-bottom: 8px;
+    font-size: larger;
+}
+
+
+
+.contact-page-inputs-main-container input{
+    font-size: 15px;
+    width: 93%;
+    height: 45px;
+    padding-left: 20px;
+    border: none;
+    outline: none;
+    background-color: rgb(244, 244, 244);
+}
+
+.contact-page-inputs-main-container textarea{
+    font-size: 15px;
+    min-width: 93%;
+    max-width: 93%;
+    min-height: 90px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: none;
+    outline: none;
+    background-color: rgb(244, 244, 244);
+}

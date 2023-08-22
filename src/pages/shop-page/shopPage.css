@@ -1,0 +1,18 @@
+
+.shop-page{
+    padding-top: 76px;
+}
+
+.shop-page-cards-items-container{
+    padding-top: 93px;
+    padding-bottom: 93px;
+    margin: auto;
+    width: 80%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap:wrap;
+    gap: 30px;
+  
+}

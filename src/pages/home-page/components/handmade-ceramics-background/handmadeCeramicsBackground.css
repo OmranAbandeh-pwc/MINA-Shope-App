@@ -1,0 +1,55 @@
+
+.handmade-ceramics-background-pic{
+    padding-top: 0;
+    margin-top: 0;
+    height: 90vh;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-blend-mode: darken;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.handmade-ceramics-background-pic h1{
+    font-size: 90px;
+    font-weight: 600;
+    margin: 0;
+    color: white;
+}
+
+.handmade-ceramics-background-pic p{
+    font-size: 20px;
+    color: white;
+}
+.handmade-ceramics-background-pic button{
+    margin-top: 10px;
+    height: 59px;
+    width: 160px;
+    border-radius: 10px;
+    border: none;
+    font-size: large;
+}
+
+.handmade-ceramics-info{
+    height: 50%;
+}
+
+.handmade-ceramics-btn{
+    margin: auto;
+    margin-top: 40px;
+    height: 59px;
+    width: 160px;
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(61, 61, 61);
+    text-decoration: none;
+}
